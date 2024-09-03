@@ -132,10 +132,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\vcdev\SDLLessons\02_getting_an_image_on_the_screen\02_getting_an_image_on_the_screen\02_getting_an_image_on_the_screen.cpp" />
+    <ClCompile Include="..\..\..\..\vcdev\sdllessons-source\02_getting_an_image_on_the_screen\02_getting_an_image_on_the_screen\02_getting_an_image_on_the_screen.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <Image Include="..\..\..\vcdev\SDLLessons\02_getting_an_image_on_the_screen\02_getting_an_image_on_the_screen\hello_world.bmp" />
+    <Image Include="..\..\..\..\vcdev\sdllessons-source\02_getting_an_image_on_the_screen\02_getting_an_image_on_the_screen\hello_world.bmp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -13,18 +13,5 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="Images">
-      <UniqueIdentifier>{11878beb-5f4e-4639-9bef-a16715b62ce7}</UniqueIdentifier>
-    </Filter>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="..\..\..\..\vcdev\sdllessons-source\02_getting_an_image_on_the_screen\02_getting_an_image_on_the_screen\02_getting_an_image_on_the_screen.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <Image Include="..\..\..\..\vcdev\sdllessons-source\02_getting_an_image_on_the_screen\02_getting_an_image_on_the_screen\hello_world.bmp">
-      <Filter>Images</Filter>
-    </Image>
   </ItemGroup>
 </Project>
