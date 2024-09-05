@@ -13,5 +13,18 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Images">
+      <UniqueIdentifier>{179f585e-b32c-496b-9b21-4f767dae3a9f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\vcdev\sdllessons-source\03_event_driven_programming\03_event_driven_programming\03_event_driven_programming.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\..\vcdev\sdllessons-source\03_event_driven_programming\03_event_driven_programming\x.bmp">
+      <Filter>Images</Filter>
+    </Image>
   </ItemGroup>
 </Project>

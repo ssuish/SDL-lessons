@@ -132,6 +132,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\..\vcdev\sdllessons-source\03_event_driven_programming\03_event_driven_programming\03_event_driven_programming.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\..\vcdev\sdllessons-source\03_event_driven_programming\03_event_driven_programming\x.bmp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
